@@ -1,0 +1,46 @@
+name: PAE
+description: |-
+  PAE (Pacific Architects and Engineers) was a U.S. federal services contractor
+  providing mission support, training, intelligence, and infrastructure services
+  to U.S. government agencies and allied governments. Founded in 1955, PAE was
+  publicly traded on NASDAQ under ticker symbol "PAE" until its acquisition by
+  Amentum on February 15, 2022, in an all-cash transaction valued at
+  approximately $1.9 billion (including assumed debt). PAE was fully absorbed
+  into Amentum and no longer operates as a standalone brand. The pae.com domain
+  now redirects to Amentum properties. PAE never published a public developer
+  program, API portal, OpenAPI specifications, SDKs, or any public-facing
+  technical APIs — its business was federal services delivery, not software or
+  platforms. This profile is maintained for historical completeness within the
+  API Evangelist network registry.
+image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/icons/api-evangelist-icon.png
+url: https://github.com/api-evangelist/pae/blob/main/apis.yml
+created: 2026-05-23
+modified: 2026-05-23
+specificationVersion: "0.20"
+tags:
+- Federal Services
+- Government Contracting
+- Defunct
+- Acquired
+- Mission Support
+- Defense
+apis: []
+common:
+- type: Acquired By
+  url: https://www.amentum.com/news/amentum-completes-acquisition-of-pae/
+- type: Acquirer Site
+  url: https://www.amentum.com
+- type: Wikipedia
+  url: https://en.wikipedia.org/wiki/PAE_(company)
+- type: GitHub
+  url: https://github.com/api-evangelist/pae
+maintainers:
+- FN: Kin Lane
+  email: info@apievangelist.com
+  url: https://apievangelist.com
+x-status: defunct
+x-acquired-by: Amentum
+x-acquisition-date: "2022-02-15"
+x-acquisition-value-usd: 1900000000
+x-former-ticker: NASDAQ:PAE
+x-api-count: 0
