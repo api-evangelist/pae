@@ -27,7 +27,7 @@ image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/icons/a
 url: https://github.com/api-evangelist/pae/blob/main/apis.yml
 created: 2026-05-23
 modified: 2026-05-23
-specificationVersion: "0.20"
+specificationVersion: '0.23'
 tags:
 - Federal Services
 - Government Contracting
