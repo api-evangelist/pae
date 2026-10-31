@@ -1,4 +1,4 @@
-# pae
+# PAE
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,42 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Profile for PAE (Pacific Architects and Engineers) in the API Evangelist network.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-## Status: Defunct — Acquired by Amentum
+PAE (Pacific Architects and Engineers) was a U.S. federal services contractor providing mission support, training, intelligence, and infrastructure services to U.S. government agencies and allied governments. Founded in 1955, PAE was publicly traded on NASDAQ under ticker symbol "PAE" until its acquisition by Amentum on February 15, 2022, in an all-cash transaction valued at approximately $1.9 billion (including assumed debt). PAE was fully absorbed into Amentum and no longer operates as a standalone brand. The pae.com domain now redirects to Amentum properties. PAE never published a public developer program, API portal, OpenAPI specifications, SDKs, or any public-facing technical APIs — its business was federal services delivery, not software or platforms. This profile is maintained for historical completeness within the API Evangelist network registry.
 
-PAE was acquired by [Amentum](https://www.amentum.com) on **February 15, 2022**
-in an all-cash transaction valued at approximately **$1.9 billion** (including
-assumed debt). PAE was delisted from NASDAQ (former ticker: `PAE`) and fully
-absorbed into Amentum's federal services portfolio. The PAE brand and corporate
-entity no longer operate independently.
+**Areas:** Federal Services · Government Contracting · Defunct · Acquired · Mission Support · Defense
 
-Source: [Amentum — Amentum Completes Acquisition of PAE](https://www.amentum.com/news/amentum-completes-acquisition-of-pae/)
+## PAE on APIs.io (historical record)
 
-## API Footprint
+Everything profiled for PAE is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pae/](https://apis.io/providers/pae/)** — or go straight to one of the APIs or properties below.
 
-| Surface | Count | Notes |
-| --- | --- | --- |
-| Public APIs | 0 | None — federal services contractor, not a software/platform vendor |
-| OpenAPI specs | 0 | Never published |
-| SDKs | 0 | Never published |
-| Developer portal | None | No public technical program ever existed |
-| GitHub org | None | No PAE-owned public GitHub presence |
-| Status page | None | n/a |
-| Public pricing | None | All revenue via U.S. federal contract vehicles |
+## API Evangelist rating
 
-PAE was Fortune F1000 (rank 828 at time of NASDAQ listing) but operated in
-mission support, training, intelligence, and infrastructure services for
-government clients — domains where APIs and developer programs are not part of
-the product surface.
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-## Files
+## How this profile is made
 
-- [`apis.yml`](./apis.yml) — APIs.io metadata record (zero APIs, acquisition
-  history documented in `x-*` extensions).
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## See Also
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for PAE: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- Successor entity: [api-evangelist/amentum](https://github.com/api-evangelist/amentum)
-  (if/when profiled)
-- [Wikipedia: PAE (company)](https://en.wikipedia.org/wiki/PAE_(company))
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pae/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
